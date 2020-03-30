@@ -7,4 +7,5 @@ class Questions
     @answer = @num1 + @num2
     @print = "What does #{@num1} + #{@num2} equals to?"
   end
-end 
+  
+end
